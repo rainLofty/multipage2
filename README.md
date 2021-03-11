@@ -1,5 +1,5 @@
-# 1.项目处于二级目录时，配置步骤
-以上的项目，发布之后的访问目录时：http://localhost/admin/home
+# 1.vue多页面应用项目处于二级目录时，配置步骤
+一般的项目，发布之后的访问目录时：http://localhost/admin/home
 我们如果项目需要这样访问：http://localhost/app/admin/home, 那我们就需要配置二级目录app
 ## 1.1 配置vue.config.js
 ```js
